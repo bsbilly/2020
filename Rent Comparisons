@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<img src="/img/compare-cities.png">
+<p class="city>
+<strong> Atlanta Rent: 1200 Dollars</strong></p>
+<p class="city"></p>
+<strong> Savannah Rent: 940 Dollars</strong></p>
+<p class="comparison"></p>
+<p></p>
+<script src="script.js"></script>
+</body>
+</html>
